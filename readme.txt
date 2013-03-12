@@ -1,0 +1,1 @@
+This program is the Week 4 homework assignment of MITx's Intro to Computer Science and Programming 6.00. See comments for assignment parameters. The version with the Computer Player has sever optimization issues at present.
